@@ -1,4 +1,1 @@
-/**
- * Domain model classes.
- */
-package org.ihtsdo.refsetservice.model;
+package org.ihtsdo.refsetservice;
