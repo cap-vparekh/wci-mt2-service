@@ -1,0 +1,19 @@
+SNOMEDCT-LOINC	SNOMED LOINC Extension
+SNOMEDCT-PDE	PHAST Drugs Extension
+SNOMEDCT-GEN	Genomics Community Content
+SNOMEDCT-CSR	Cancer Synoptic Community Content
+SNOMEDCT-CVCC	COVID-19 Vaccines Community Content
+SNOMEDCT-CDE	Common German Translation - OLD
+SNOMEDCT-BEUPD	Belgian Edition Upgrade
+SNOMEDCT-ES	Spanish Edition
+SNOMEDCT-TM	Traditional Medicine
+SNOMEDCT-COMDE	Common German Translation
+SNOMEDCT-NLFIX	Netherlands Extension Fix
+SNOMEDCT-EDQM	EDQM Extension
+SNOMEDCT-CHFIX	Swiss Extension Fix
+
+SNOMEDCT-WCI	WCI Testing Extension
+
+SNOMEDCT-AM	Armenian Extension	## Until have module
+SNOMEDCT-VN	Vietnam Extension	## Until have module
+

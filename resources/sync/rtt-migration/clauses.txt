@@ -1,0 +1,173 @@
+terminologyId	negated	value
+421000210109	\0	<<223369002 |Country (geographic location)|
+1041000003106	\0	<<223369002 |Country (geographic location)|
+391000210104	\0	<<264395009 | Microorganism (organism) |
+391000210104	\0	<<264395009 | Microorganism (organism) |
+TMP-swtaub	\0	<<14669001 | Acute renal failure syndrome (disorder) |
+TMP-swtaub	\0	<<609482001 | Induced termination of pregnancy complicated by renal tubular necrosis (disorder) |
+TMP-swtaub	\0	<<236426006 | Postoperative acute tubular necrosis (disorder) |
+TMP-swtaub	\0	<<236427002 | Post-traumatic acute tubular necrosis (disorder) |
+TMP-swtaub	\0	<<57469000 | Miscarriage with acute renal failure (disorder) |
+TMP-swtaub	\0	<<200118004 | Post-delivery acute renal failure with postnatal problem (disorder) |
+TMP-swtaub	\0	<<129561000119108 | Pre-renal acute kidney injury (disorder) |
+TMP-swtaub		<<236432001 | Pulmonary renal syndrome (disorder) |
+TMP-swtaub	\0	<<236574008 | Acute rejection of renal transplant (disorder) |
+TMP-swtaub		<<236573002 | Very mild acute rejection of renal transplant (disorder) |
+TMP-swtaub	\0	<<723189000 | Acute renal insufficiency (disorder) |
+TMP-swtaub	\0	<<716864001 | Hemorrhagic fever with renal syndrome (disorder) |
+683861000189108	\0	<<272123002 | Frequencies (qualifier value) |
+683861000189108	\0	<<419492006 | Additional dosage instructions (qualifier value) |
+683861000189108	\0	<<284009009 |Route of administration value (qualifier value)|
+683861000189108	\0	<<272106006 | Temporal periods of day (qualifier value) |
+683861000189108	\0	<<307157008 | Temporal periods relating to activities (qualifier value) |
+683861000189108	\0	<<420247005 | Dosing instruction imperative (qualifier value) |
+683861000189108	\0	<<408102007 | Unit dose (qualifier value) |
+68661000052109	\0	<405277009 |legitimerad läkare som gör specialiseringstjänstgöring|
+68661000052109	\0	<405277009 |legitimerad läkare som gör specialiseringstjänstgöring|
+73171000052105	\0	(((<<102572006 |ödem i ben| OR <<444848005 |ryggödem|) MINUS <<403385000 |lymfödem i ben|) MINUS <<65605001 |ryggmärgsödem|) OR (271808008 |generaliserat ödem|) OR (248499004 |ödem i lågt belägna kroppsdelar|)
+68661000052109	\0	<405277009 |legitimerad läkare som gör specialiseringstjänstgöring|
+73171000052105	\0	(((<<102572006 |ödem i ben| OR <<444848005 |ryggödem|) MINUS <<403385000 |lymfödem i ben|) MINUS <<65605001 |ryggmärgsödem|) OR (271808008 |generaliserat ödem|) OR (248499004 |ödem i lågt belägna kroppsdelar|)
+683861000189108	\0	<<419492006 | Additional dosage instructions (qualifier value) |
+683861000189108	\0	<<272106006 | Temporal periods of day (qualifier value) |
+683861000189108	\0	<<408102007 | Unit dose (qualifier value) |
+683861000189108	\0	<<284009009 |Route of administration value (qualifier value)|
+683861000189108	\0	<<307157008 | Temporal periods relating to activities (qualifier value) |
+683861000189108	\0	<<272123002 | Frequencies (qualifier value) |
+683861000189108	\0	<<420247005 | Dosing instruction imperative (qualifier value) |
+683861000189108	\0	<<736542009 | Pharmaceutical dose form (dose form) |
+683861000189108	\0	<< 732935002 | Unit of presentation (unit of presentation) |
+68661000052109	\0	<405277009 |legitimerad läkare som gör specialiseringstjänstgöring|
+73171000052105	\0	(((<<102572006 |ödem i ben| OR <<444848005 |ryggödem|) MINUS <<403385000 |lymfödem i ben|) MINUS <<65605001 |ryggmärgsödem|) OR (271808008 |generaliserat ödem|) OR (248499004 |ödem i lågt belägna kroppsdelar|)
+117721000146102	\0	<< 303533002 |gewrichtsimplantaat van heup (fysiek object)|
+117721000146102	\0	<< 304124003 |gewrichtsimplantaat van schouder (fysiek object)|
+117721000146102	\0	<< 705870006 |implanteerbare polsprothese (fysiek object)|
+117721000146102	\0	<< 705889006 |implanteerbare knieprothese (fysiek object)|
+117721000146102	\0	<< 705880005 |implanteerbare elleboogprothese (fysiek object)|
+117721000146102	\0	<< 705871005 |gewrichtsprothese van digitus van hand (fysiek object)|
+117721000146102	\0	<< 705482008 |Female-incontinence urethral barrier (physical object)|
+117721000146102	\0	<< 704802009 |Female fecal incontinence surgical mesh (physical object)|
+117721000146102	\0	<< 702212007 |Male stress urinary incontinence surgical mesh (physical object)|
+117721000146102	\0	<< 469626009 |Hydraulic incontinence treatment system (physical object)|
+117721000146102	\0	<< 261680000 |Artificial urinary sphincter (physical object)|
+117721000146102	\0	<< 469876008 |Intrauterine device, metal-covered (physical object)|
+117721000146102	\0	<< 705847003 |Pelvic organ prolapse surgical mesh (physical object)|
+117721000146102	\0	<< 303619008 |cardiaal implantaat (fysiek object)|
+117721000146102	\0	<< 470646006 |Implantable cardiac monitor (physical object)|
+117721000146102	\0	<< 25937001 |neurostimulator (fysiek object)|
+117721000146102	\0	<< 705565008 |Brain electrical stimulation system (physical object)|
+117721000146102	\0	<< 470726009 |Incontinence-control electrical stimulation system, implantable (physical object)|
+117721000146102	\0	<< 705563001 |Analgesic electrical stimulation system (physical object)|
+117721000146102	\0	<< 462766001 |Interferential electrical stimulation system (physical object)|
+117721000146102	\0	<< 462797002 |Percutaneous incontinence-control electrical stimulation system (physical object)|
+117721000146102	\0	<< 469712005 |Gait-enhancement electrical stimulation system, implantable (physical object)|
+117721000146102	\0	<< 447033006 |nervus-vagusstimulator (fysiek object)|
+117721000146102	\0	<< 706122008 |Implantable infusion pump (physical object)|
+117721000146102	\0	<< 467396002 |Cochlear implant system (physical object)|
+117721000146102	\0	<< 705307001 |Middle ear implant system (physical object)|
+117721000146102	\0	<< 468421000 |botverankerd hoortoestel (fysiek object)|
+117721000146102	\0	<< 711326009 |implanteerbaar gehoorimplantaatsysteem op basis van vibraties via beengeleiding (fysiek object)|
+117721000146102	\0	<< 360042007 |vasculaire stent (fysiek object)|
+117721000146102	\0	<< 303617005 |vasculair implantaat (fysiek object)|
+117721000146102	\0	<< 469040006 |Endobronchial valve (physical object)|
+117721000146102	\0	<< 469789005 |Lung volume reduction coil (physical object)|
+117721000146102	\0	<< 705631002 |Bronchial stent (physical object)|
+117721000146102	\0	<< 701345007 |Laryngeal stent (physical object)|
+117721000146102	\0	<< 2282003 |borstimplantaat (fysiek object)|
+117721000146102	\0	<< 770738008 |bilimplantaat (fysiek object)|
+117721000146102	\0	<< 304076002 |Male genital implant (physical object)|
+117721000146102	\0	<< 705883007 |implanteerbare schouderprothese (fysiek object)|
+117721000146102	\0	<< 304074004 |Urinary implant (physical object)|
+117721000146102	\0	<< 705897004 |proefprothese van gewricht (fysiek object)|
+117721000146102	\0	<< 705865004 |implanteerbare enkelprothese (fysiek object)|
+117721000146102	\0	<< 706004007 |Implantable cardiac pacemaker (physical object)|
+117721000146102	\0	<< 303913007 |Cardiac pacemaker component (physical object)|
+117721000146102	\0	<< 462852004 |Infusion/injection port/catheter, implantable (physical object)|
+117721000146102	\0	<< 303533002 |gewrichtsimplantaat van heup (fysiek object)|
+117721000146102	\0	<< 304124003 |gewrichtsimplantaat van schouder (fysiek object)|
+117721000146102	\0	<< 705870006 |implanteerbare polsprothese (fysiek object)|
+117721000146102	\0	<< 705889006 |implanteerbare knieprothese (fysiek object)|
+117721000146102	\0	<< 705880005 |implanteerbare elleboogprothese (fysiek object)|
+117721000146102	\0	<< 705871005 |gewrichtsprothese van digitus van hand (fysiek object)|
+117721000146102	\0	<< 705482008 |Female-incontinence urethral barrier (physical object)|
+117721000146102	\0	<< 704802009 |Female fecal incontinence surgical mesh (physical object)|
+117721000146102	\0	<< 702212007 |Male stress urinary incontinence surgical mesh (physical object)|
+117721000146102	\0	<< 469626009 |Hydraulic incontinence treatment system (physical object)|
+117721000146102	\0	<< 261680000 |Artificial urinary sphincter (physical object)|
+117721000146102	\0	<< 469876008 |Intrauterine device, metal-covered (physical object)|
+117721000146102	\0	<< 705847003 |Pelvic organ prolapse surgical mesh (physical object)|
+117721000146102	\0	<< 303619008 |cardiaal implantaat (fysiek object)|
+117721000146102	\0	<< 470646006 |Implantable cardiac monitor (physical object)|
+117721000146102	\0	<< 25937001 |neurostimulator (fysiek object)|
+117721000146102	\0	<< 705565008 |Brain electrical stimulation system (physical object)|
+117721000146102	\0	<< 470726009 |Incontinence-control electrical stimulation system, implantable (physical object)|
+117721000146102	\0	<< 705563001 |Analgesic electrical stimulation system (physical object)|
+117721000146102	\0	<< 462766001 |Interferential electrical stimulation system (physical object)|
+117721000146102	\0	<< 462797002 |Percutaneous incontinence-control electrical stimulation system (physical object)|
+117721000146102	\0	<< 469712005 |Gait-enhancement electrical stimulation system, implantable (physical object)|
+117721000146102	\0	<< 447033006 |nervus-vagusstimulator (fysiek object)|
+117721000146102	\0	<< 706122008 |Implantable infusion pump (physical object)|
+117721000146102	\0	<< 467396002 |Cochlear implant system (physical object)|
+117721000146102	\0	<< 705307001 |Middle ear implant system (physical object)|
+117721000146102	\0	<< 468421000 |botverankerd hoortoestel (fysiek object)|
+117721000146102	\0	<< 711326009 |implanteerbaar gehoorimplantaatsysteem op basis van vibraties via beengeleiding (fysiek object)|
+117721000146102	\0	<< 360042007 |vasculaire stent (fysiek object)|
+117721000146102	\0	<< 303617005 |vasculair implantaat (fysiek object)|
+117721000146102	\0	<< 469040006 |Endobronchial valve (physical object)|
+117721000146102	\0	<< 469789005 |Lung volume reduction coil (physical object)|
+117721000146102	\0	<< 705631002 |Bronchial stent (physical object)|
+117721000146102	\0	<< 701345007 |Laryngeal stent (physical object)|
+117721000146102	\0	<< 2282003 |borstimplantaat (fysiek object)|
+117721000146102	\0	<< 770738008 |bilimplantaat (fysiek object)|
+117721000146102	\0	<< 304076002 |Male genital implant (physical object)|
+117721000146102	\0	<< 705883007 |implanteerbare schouderprothese (fysiek object)|
+117721000146102	\0	<< 304074004 |Urinary implant (physical object)|
+117721000146102	\0	<< 705897004 |proefprothese van gewricht (fysiek object)|
+117721000146102	\0	<< 705865004 |implanteerbare enkelprothese (fysiek object)|
+117721000146102	\0	<< 706004007 |Implantable cardiac pacemaker (physical object)|
+117721000146102	\0	<< 303913007 |Cardiac pacemaker component (physical object)|
+117721000146102	\0	<< 462852004 |Infusion/injection port/catheter, implantable (physical object)|
+1000391000202108	\0	<<778976006
+68661000052109	\0	<405277009 |legitimerad läkare som gör specialiseringstjänstgöring|
+73171000052105	\0	(((<<102572006 |ödem i ben| OR <<444848005 |ryggödem|) MINUS <<403385000 |lymfödem i ben|) MINUS <<65605001 |ryggmärgsödem|) OR (271808008 |generaliserat ödem|) OR (248499004 |ödem i lågt belägna kroppsdelar|)
+117721000146102	\0	<< 303533002 |gewrichtsimplantaat van heup (fysiek object)|
+117721000146102	\0	<< 304124003 |gewrichtsimplantaat van schouder (fysiek object)|
+117721000146102	\0	<< 705870006 |implanteerbare polsprothese (fysiek object)|
+117721000146102	\0	<< 705889006 |implanteerbare knieprothese (fysiek object)|
+117721000146102	\0	<< 705880005 |implanteerbare elleboogprothese (fysiek object)|
+117721000146102	\0	<< 705871005 |gewrichtsprothese van digitus van hand (fysiek object)|
+117721000146102	\0	<< 705482008 |Female-incontinence urethral barrier (physical object)|
+117721000146102	\0	<< 704802009 |Female fecal incontinence surgical mesh (physical object)|
+117721000146102	\0	<< 702212007 |Male stress urinary incontinence surgical mesh (physical object)|
+117721000146102	\0	<< 469626009 |Hydraulic incontinence treatment system (physical object)|
+117721000146102	\0	<< 469876008 |Intrauterine device, metal-covered (physical object)|
+117721000146102	\0	<< 705847003 |Pelvic organ prolapse surgical mesh (physical object)|
+117721000146102	\0	<< 303619008 |cardiaal implantaat (fysiek object)|
+117721000146102	\0	<< 470646006 |Implantable cardiac monitor (physical object)|
+117721000146102	\0	<< 25937001 |neurostimulator (fysiek object)|
+117721000146102	\0	<< 705565008 |Brain electrical stimulation system (physical object)|
+117721000146102	\0	<< 470726009 |Incontinence-control electrical stimulation system, implantable (physical object)|
+117721000146102	\0	<< 705563001 |Analgesic electrical stimulation system (physical object)|
+117721000146102	\0	<< 462766001 |Interferential electrical stimulation system (physical object)|
+117721000146102	\0	<< 462797002 |Percutaneous incontinence-control electrical stimulation system (physical object)|
+117721000146102	\0	<< 706122008 |Implantable infusion pump (physical object)|
+117721000146102	\0	<< 467396002 |Cochlear implant system (physical object)|
+117721000146102	\0	<< 705307001 |Middle ear implant system (physical object)|
+117721000146102	\0	<< 468421000 |botverankerd hoortoestel (fysiek object)|
+117721000146102	\0	<< 711326009 |implanteerbaar gehoorimplantaatsysteem op basis van vibraties via beengeleiding (fysiek object)|
+117721000146102	\0	<< 360042007 |vasculaire stent (fysiek object)|
+117721000146102	\0	<< 303617005 |vasculair implantaat (fysiek object)|
+117721000146102	\0	<< 469040006 |Endobronchial valve (physical object)|
+117721000146102	\0	<< 469789005 |Lung volume reduction coil (physical object)|
+117721000146102	\0	<< 705631002 |Bronchial stent (physical object)|
+117721000146102	\0	<< 701345007 |Laryngeal stent (physical object)|
+117721000146102	\0	<< 2282003 |borstimplantaat (fysiek object)|
+117721000146102	\0	<< 770738008 |bilimplantaat (fysiek object)|
+117721000146102	\0	<< 304076002 |Male genital implant (physical object)|
+117721000146102	\0	<< 304074004 |Urinary implant (physical object)|
+117721000146102	\0	<< 705897004 |proefprothese van gewricht (fysiek object)|
+117721000146102	\0	<< 705865004 |implanteerbare enkelprothese (fysiek object)|
+117721000146102	\0	<< 706004007 |Implantable cardiac pacemaker (physical object)|
+117721000146102	\0	<< 303913007 |Cardiac pacemaker component (physical object)|
+117721000146102	\0	<< 462852004 |Infusion/injection port/catheter, implantable (physical object)|
+68661000052109	\0	<405277009 |legitimerad läkare som gör specialiseringstjänstgöring|
+73171000052105	\0	(((<<102572006 |ödem i ben| OR <<444848005 |ryggödem|) MINUS <<403385000 |lymfödem i ben|) MINUS <<65605001 |ryggmärgsödem|) OR (271808008 |generaliserat ödem|) OR (248499004 |ödem i lågt belägna kroppsdelar|)

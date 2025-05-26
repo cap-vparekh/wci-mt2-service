@@ -1,0 +1,37 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://www.ehcache.org/ehcache.xsd"
+	updateCheck="true" monitoring="autodetect" dynamicConfig="true">
+
+ 	<diskStore path="./cache" />
+
+	<defaultCache 
+		maxElementsInMemory="10000" 
+		eternal="false"
+		timeToIdleSeconds="120" 
+		timeToLiveSeconds="120" 
+		overflowToDisk="true"
+		diskSpoolBufferSizeMB="30" 
+		maxElementsOnDisk="10000000"
+		diskPersistent="false" 
+		diskExpiryThreadIntervalSeconds="120"
+		memoryStoreEvictionPolicy="LRU" 
+		clearOnFlush="true" />
+
+	<!-- Add your cache configurations here -->
+	<cache name="snowstorm_concepts" 
+		maxElementsInMemory="1000" 
+		eternal="false"
+		overflowToDisk="true" 
+		diskPersistent="true"
+		diskExpiryThreadIntervalSeconds="900" 
+		memoryStoreEvictionPolicy="LRU" />
+		
+	<cache name="snowstorm_terminology" 
+		maxElementsInMemory="1000" 
+		eternal="false"
+		overflowToDisk="true" 
+		diskPersistent="true"
+		diskExpiryThreadIntervalSeconds="0" 
+		memoryStoreEvictionPolicy="LRU" />
+
+</ehcache>
